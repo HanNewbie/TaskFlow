@@ -45,7 +45,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCtQFdTrt91eS-5ldbL3JGrdUFXwkbP4TU',
+    apiKey: '{API KEY}',
     appId: '1:305459762194:web:157e6be77477a983db34cb',
     messagingSenderId: '305459762194',
     projectId: 'taskflow-8d64d',
@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCtQFdTrt91eS-5ldbL3JGrdUFXwkbP4TU',
+    apiKey: '{API KEY}',
     appId: '1:305459762194:android:157e6be77477a983db34cb',
     messagingSenderId: '305459762194',
     projectId: 'taskflow-8d64d',
@@ -62,7 +62,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCtQFdTrt91eS-5ldbL3JGrdUFXwkbP4TU',
+    apiKey: '{API KEY}',
     appId: '1:305459762194:ios:157e6be77477a983db34cb',
     messagingSenderId: '305459762194',
     projectId: 'taskflow-8d64d',
